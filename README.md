@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/marieachieng/profile-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/marieachieng/profile-card-component-main)
+- Live Site URL: [Demo](https://marieachieng.github.io/profile-card-component-main/)
 
 ## My process
 
